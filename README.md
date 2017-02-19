@@ -10,7 +10,7 @@ Boilerplate for building a site from scratch using SCSS and ES6 (optional).
 
   This will install Gulp globally as well as all dependencies for the dev environment. The install takes a few minutes, and you have to be connected to the internet. Do this only once per project.
   
-  _note_ You can also use Yarn to run this installation with `yarn install`. It will run in a fraction of the time. Check out [their page](https://code.facebook.com/posts/1840075619545360).
+  **Note:** You can also use Yarn to run this installation with `yarn install`. It will run in a fraction of the time. Check out [their page](https://code.facebook.com/posts/1840075619545360).
 
 2. Once ready to code, in the terminal, run Gulp:
   `$ Gulp`
