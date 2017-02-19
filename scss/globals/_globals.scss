@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  color: $color-text;
+  font-feature-settings: "kern" 1, "dlig" 1; // Turns on kerning and ligatures
+  -moz-font-feature-settings: "kern" 1, "dlig" 1;
+}

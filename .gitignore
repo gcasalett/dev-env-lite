@@ -1,0 +1,9 @@
+# Just in case you're using Git
+
+node_modules/
+
+README.me
+
+# Compiled CSS & JS doesn't need to go into version control (unless using something like Github pages)
+css/
+js/dist/

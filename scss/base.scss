@@ -1,0 +1,52 @@
+@import "utils/config";
+@import "utils/mixins";
+@import "utils/jeet/jeet"; // Grid system. More about the Jeet API at http://jeet.gs
+
+/**
+ * Comments are added using idiomatic CSS comments.
+ * https://github.com/necolas/idiomatic-css
+ * https://atom.io/packages/atom-idiomatic-comments-css-snippets
+ *
+ * Use com-preprocessor comments when nothing will be output. Like variables and stuff.
+ *
+ */
+
+/* ==========================================================================
+   $Table of Contents/
+   ========================================================================== */
+/**
+ * $Global
+ * $Objects
+ * $Components
+ * $Overrides
+ */
+
+/* ==========================================================================
+   $Global
+   ========================================================================== */
+
+/* $Normalize
+   ========================================================================== */
+@import "globals/normalize";
+
+/* $Grid
+   ========================================================================== */
+@import "globals/layout";
+
+/* $Globals - These high-level styles apply all across the site
+   ========================================================================== */
+@import "globals/globals";
+
+/* ==========================================================================
+   $Objects - Reusable elements (like buttons, form elements, etc)
+   ========================================================================== */
+@import "objects/buttons";
+
+/* ==========================================================================
+   $Components - Sections (like header, footer, sidebar, ect)
+   ========================================================================== */
+
+
+/* ==========================================================================
+   $Overrides
+   ========================================================================== */
