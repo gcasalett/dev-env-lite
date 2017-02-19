@@ -1,6 +1,6 @@
 @import "utils/config";
 @import "utils/mixins";
-@import "utils/jeet/jeet"; // Grid system. More about the Jeet API at http://jeet.gs
+@import "utils/jeet/jeet"; // Grid system. More about the Jeet API at http://jeet.gs. *Warning* Using an older, stable version of Jeet, since it's been in development lately and some things have been changing.
 
 /**
  * Comments are added using idiomatic CSS comments.
